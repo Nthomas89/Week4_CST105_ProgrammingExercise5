@@ -1,0 +1,1 @@
+Write a program that reads text from a file. Create a 2 dimensional character array that is 20 X 45. Store the characters read in your array in row major order (fill row 0 first, then row 1, etc...). Fill any unused spaces in your 2-D array with the '@' character. If you have more characters than space, ignore the excess characters.
